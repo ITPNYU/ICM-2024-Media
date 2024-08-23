@@ -1,10 +1,10 @@
 ## Information
 
 * Ellen Nickles ellen.nickles@nyu.edu
-* Time: Tuesday 12:10AM - 2:40PM EST
-* Location:
+* Time: Tuesday 12:10PM - 2:40PM EST
+* Location: 411
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Ellen-06)
-* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)
+* [Student Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ17jNWeE6VJUZrJwIQX7YhcpCWBgbcDeeDCnkULKnFTbkQ-_t5GDBaBHVl71FdYq3M-s_8FM1FS)
 
 ## Dates
 
