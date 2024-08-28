@@ -47,9 +47,6 @@ At the completion of this course, the student should be able to:
       - Code rules of interaction for standard human-computer interface components (e.g. mouse, keyboard).
       - Assemble and manipulate simple algorithms to create generative drawings.
    - Seek, identify, read, and understand code examples that can be combined and/or modified to implement a personal project idea.
-Understand how visual, pixel and text-based media is encoded as data and manipulate media at the data level.
-Work with peripheral media input devices (e.g. camera, mic) as inputs for interaction.
-Understand the basic mechanics of machine learning and experiment with machine learning libraries.
 
 # POLICIES
 

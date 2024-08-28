@@ -4,7 +4,7 @@
 * Time: Wednesday 12:10 - 2:40PM EST
 * Location:
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Mimi-01)
-* [Office Hours Signup](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUwyRlNGejliMUxLfGRlZmF1bHR8MTI2NGIyZTNkNDA5MzZhMmU1N2VlZDY5NWJjNmYyMzg)
+* [Office Hours Signup](https://calendar.app.google/ZNgeTMujQKz1QyJR7)
 
 ## Dates
 
