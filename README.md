@@ -42,11 +42,9 @@ The 17th century philosopher Spinoza described "wonder" as a state of suspension
 
 ## COURSE OBJECTIVES
 At the completion of this course, the student should be able to:
-   - Create interactive, generative drawings with p5.js.
-      - Use basic programming control structures such as variables, conditional statements, loops, and functions.
-      - Code rules of interaction for standard human-computer interface components (e.g. mouse, keyboard).
-      - Assemble and manipulate simple algorithms to create generative drawings.
-   - Seek, identify, read, and understand code examples that can be combined and/or modified to implement a personal project idea.
+   - Understand how visual, pixel and text-based media is encoded as data and manipulate media at the data level.
+   - Work with peripheral media input devices (e.g. camera, mic) as inputs for interaction.
+   - Understand the basic mechanics of machine learning and experiment with machine learning tools.
 
 # POLICIES
 
