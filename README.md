@@ -15,19 +15,22 @@ The following is an overview of how we will be spending class time over the next
 - 7 -- Final Project Presentations
 
 ## Section Info
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-MimiY-01)
-* 05 [Dave](sections/02_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Dave-02)
-* 06 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-MimiY-03)
+* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Mimi-01)
+* 02 [Dave](sections/02_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Dave-02)
+* 03 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Mimi-03)
 * 04 [Allison Parrish](sections/04_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Allison-04)
 * 05 [John-Henry](sections/05_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-John-Henry-05)
-* 03 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Ellen-06)
+* 06 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Ellen-06)
 * 07 [Nun](sections/07_Nun.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Nun-07)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
 
 ## p5.js
-- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
+- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  
+- We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
+- [p5.js Reference](https://p5js.org/reference/) | [p5.js Sound Library Reference](https://p5js.org/reference/#/libraries/p5.sound)
+- Getting Started with p5.js book: [NYU Library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Amazon](https://www.amazon.com/Getting-Started-p5-js-Interactive-JavaScript/dp/1457186772/ref=as_li_ss_tl?ie=UTF8&qid=1472840406&sr=8-1&keywords=getting+started+with+p5.js&linkCode=sl1&tag=natureofcode-20&linkId=e1804640b0769d9cce7f1af4eed997de)
 
 ## Extra Help
 - [Research Resident Office Hours](https://itp.nyu.edu/help/office-hours/)
