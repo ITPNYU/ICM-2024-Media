@@ -1,4 +1,4 @@
-# ICM-2023-Media
+# ICM-2024-Media
 
 Syllabus for ITP Foundation Course Introduction to Computational Media: Media
 
