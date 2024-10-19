@@ -20,7 +20,7 @@ The following is an overview of how we will be spending class time over the next
 * 03 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Mimi-03)
 * 04 [Allison Parrish](sections/04_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Allison-04)
 * 05 [John-Henry](sections/05_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-John-Henry-05)
-* 06 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Ellen-06)
+* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Ellen-06)
 * 07 [Nun](sections/07_Nun.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Nun-07)
 
 ## Questions and Discussion
