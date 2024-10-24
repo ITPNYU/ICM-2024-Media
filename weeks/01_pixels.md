@@ -23,7 +23,7 @@ What can we express through algorithms?
 #### Fun way to animate
 * [11.2: Video Photobooth / Muybridge Style Animation](https://thecodingtrain.com/tracks/pixels/pixels/video-photobooth)
 #### Mixing video
-* [p5VideoKit - a dashboard for mixing video in the browser](https://github.com/jht1493/p5VideoKit)
+* [p5VideoKit - a dashboard for mixing video in the browser](https://github.com/molab-itp/p5videoKit)
 
 ###  Code
 * [Code for video tutorials in p5 editor](https://editor.p5js.org/jht1493/collections/XKr_AXpaT)
