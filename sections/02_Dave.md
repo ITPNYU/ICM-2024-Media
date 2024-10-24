@@ -4,7 +4,7 @@
 * Time: Thursdays 12:10PM - 2:40PM EST
 * Location:
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Media/wiki/Homework-Dave-02)
-* [Office Hours]()
+* [Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1SdSCHzh3GnJ7SJ1M7SMHLx6ld2R8ZtD0FuaQwnidAvQc_edjRDbxGgj7G6yJEE2vnq5C80OWd)
 
 ## Dates
 
