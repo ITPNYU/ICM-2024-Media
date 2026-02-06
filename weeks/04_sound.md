@@ -31,7 +31,7 @@
 * [Modulo Drum](https://editor.p5js.org/icm4.0/sketches/FzyRXOvyy)
 * [Loopy Drum](https://editor.p5js.org/icm4.0/sketches/_ZHgs0L2V)
 * [Framecount Drum with Shifting Syncopation](https://editor.p5js.org/icm4.0/sketches/elIT5rHVV)
-* [Geometry as Rhythm](https://www.youtube.com/watch?v=MwKtgDNyGYk) | [Geometry as Rhythm](https://editor.p5js.org/icm4.0/sketches/uryD8XmJD)
+* [Geometry as Rhythm](https://www.youtube.com/watch?v=MwKtgDNyGYk) | [Sketch](https://editor.p5js.org/icm4.0/sketches/OinMD8-Jd))
 
 #### Sound Effects and Post-Processing
 * [SoundRecorder()](http://p5js.org/reference/#/p5.SoundRecorder) | [Record and Loop](https://editor.p5js.org/icm4.0/sketches/8-VXVgaJO)
